@@ -6,10 +6,13 @@ body {
 
 }
 
-.support-link {
+.nav {
 	position: absolute;
 	top: 1rem;
 	right: 1rem;
+}
+
+.link {	
 	text-decoration: none;
 }
 
